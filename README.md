@@ -24,7 +24,11 @@
 <p align="center">
   <br />
   <br />
-  <code><img src="https://camo.githubusercontent.com/814fea8a1e95cfe8e51f7ca0a9e04c7469fa9bcc79d2482a14c26b4b6d04581e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6775636163696f6c61746f"></code>
+  <code>
+    <img src="https://github-readme-stats.vercel.app/api?username=gucaciolato&theme=react&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucaciolato&layout=compact&theme=react&show_icons=true">
+
+  </code>
 <p/>
 
 <p align="center">
@@ -40,6 +44,13 @@
   <code><img height="20" src="https://img.shields.io/badge/Linux-%20-blue"></code>
 </center>
 
+
+**Web and Java Developer**
+**Future Data Scientist**
+
+
+In my free time I like a good book, series, cooking. Non-militant Corinthians fan.
+Sinta-se a vontade para falar comigo.
 
 <!--
 **gucaciolato/gucaciolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
