@@ -44,13 +44,16 @@
   <code><img height="20" src="https://img.shields.io/badge/Linux-%20-blue"></code>
 </center>
 
-
-**Web and Java Developer**
-**Future Data Scientist**
-
-
-In my free time I like a good book, series, cooking. Non-militant Corinthians fan.
-Sinta-se a vontade para falar comigo.
+<p align="center">
+  <b>Web and Java Developer and a future Data Scientist.</b>
+</p>
+<p align="center">
+  <b>In my free time I like a good book, series, cooking. Non-militant Corinthians fan.</b>
+ </p>
+<p align="center">
+ <b>Feel free to talk to me.
+  Sinta-se a vontade para falar comigo.</b>
+ </p>
 
 <!--
 **gucaciolato/gucaciolato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
