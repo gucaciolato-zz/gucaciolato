@@ -34,7 +34,6 @@
 <p align="center">
   <br />
   <br />
-  <code><img height="20" src="https://img.shields.io/badge/Java-%20-blue"></code>
   <code><img height="20" src="https://img.shields.io/badge/Python-%20-blue"></code>
   <code><img height="20" src="https://img.shields.io/badge/JavaScript-%20-blue"></code>
   <code><img height="20" src="https://img.shields.io/badge/HTML5-%20-blue"></code>
@@ -45,7 +44,7 @@
 </center>
 
 <p align="center">
-  <b>Web and Java Developer and a future Data Scientist.</b>
+  <b>Software Developer | Data Analyst.</b>
 </p>
 <p align="center">
   <b>In my free time I like a good book, series, cooking. Non-militant Corinthians fan.</b>
