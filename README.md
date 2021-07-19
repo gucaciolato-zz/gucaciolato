@@ -25,8 +25,8 @@
   <br />
   <br />
   <code>
-    <img src="https://github-readme-stats.vercel.app/api?username=gucaciolato&theme=react&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucaciolato&layout=compact&theme=react&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=gucaciolato&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gucaciolato&layout=compact&show_icons=true">
 
   </code>
 <p/>
@@ -34,8 +34,9 @@
 <p align="center">
   <br />
   <br />
-  <code><img height="20" src="https://img.shields.io/badge/Python-%20-blue"></code>
   <code><img height="20" src="https://img.shields.io/badge/JavaScript-%20-blue"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Java-%20-blue"></code>
+  <code><img height="20" src="https://img.shields.io/badge/Python-%20-blue"></code>
   <code><img height="20" src="https://img.shields.io/badge/HTML5-%20-blue"></code>
   <code><img height="20" src="https://img.shields.io/badge/CSS3-%20-blue"></code>
   <code><img height="20" src="https://img.shields.io/badge/Git-%20-blue"></code>
