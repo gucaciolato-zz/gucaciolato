@@ -45,7 +45,7 @@
 </center>
 
 <p align="center">
-  <b>Software Developer | Data Analyst.</b>
+  <b>Web Developer</b>
 </p>
 <p align="center">
   <b>In my free time I like a good book, series, cooking. Non-militant Corinthians fan.</b>
